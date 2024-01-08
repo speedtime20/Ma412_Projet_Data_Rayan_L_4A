@@ -1,4 +1,4 @@
-# AERO d - Mathematical Tools for Data Science (2023/2024)
+# AERO 4 - Mathematical Tools for Data Science (2023/2024)
 
 ## Project Overview
 
